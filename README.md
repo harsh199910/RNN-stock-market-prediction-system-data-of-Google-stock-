@@ -10,7 +10,7 @@ NOTE _ model is a 92% acuraccy
 
 
 
-Fork are invited, if anyone finds a new way for source cide 
+Fork are invited, if anyone find a new way for source cide 
 
 
 
